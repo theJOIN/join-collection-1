@@ -1,4 +1,4 @@
-#Collection No.1
-##p53-Related Perturbation Analysis Across Multiple Cell Lines in Cancer
+# Collection No.1
+## [p53-Related Perturbation Analysis Across Multiple Cell Lines in Cancer ](https://amp.pharm.mssm.edu/join/collections/1)
 
 For the first collection of the Journal of Interactive Notebooks (JOIN), we selected eleven Jupyter notebooks analyzing Gene Expression Omnibus (GEO) datasets on p53 gene expression. p53 is a tumor suppressor gene discovered in 1979 and regulates the expression of inhibitory proteins to induce cell cycle progression. Using the BioJupies online notebook generator, cell lines were analyzed pertaining to breast, colorectal and prostate cancer, as well as mouse embryonic fibroblasts and human umbilical cord endothelial cells. These datasets were taken from experiments where either knockout or knockdown was performed on p53, or a dependent gene such as MDM2 in mouse embryonic fibroblasts were silenced. In each notebook, Principal Component Analysis (PCA) dimensionality reduction was performed, as well as Gene Ontology (GO) Enrichment Analysis, Pathway Enrichment Analysis and Transcription Factor Analysis. Further examination is provided with the Clustergrammer interactive heatmap tool, as well as visualization methods like Volcano and MA plots.
